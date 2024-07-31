@@ -67,8 +67,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## Acknowledgements
-
-* Kaggle for providing the dataset.
-* [Your Name](https://github.com/your-username) for the project development.
 
